@@ -8,6 +8,8 @@ journeys, to ghoulish nightmares,  technology architect responsibilities and rol
 In part one, 
 I aim to provide a means to differentiate architecture based on how work is performed and
 evaluated in terms of eventual output."
+tags:
+- architecture
 ---
 
 According to the Google search (definitions provided by [Oxford Languages](https://languages.oup.com/google-dictionary-en)

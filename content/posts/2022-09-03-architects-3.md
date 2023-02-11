@@ -4,6 +4,8 @@ date: 2022-09-03
 description: "Naming is Hard.
 I'd like to discuss the challenges of titling architect roles by walking through some of the various job titles and
 how those descriptions relate to the concepts introduced in the previous articles."
+tags: 
+- architecture
 ---
 
 Welcome Back, 

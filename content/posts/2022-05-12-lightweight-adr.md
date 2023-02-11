@@ -3,6 +3,9 @@ title: "Lightweight ADR: Architecture Decision Records"
 date: 2022-05-12
 description: "The reasons for architectural decisions often become more important over time, because the details of new 
 problems take residence in our brains where those old decisions used to live."
+tags: 
+- architecture
+- adr
 ---
 
 There are a number of great resources about ADRs that I'll refer to at the end of the article.

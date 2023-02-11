@@ -7,6 +7,8 @@ In part two,
 I'd like to compare and contrast architecture and engineering roles in order to demonstrate
 how these roles, and the skill sets, can compliment each other in a technology organization.
 "
+tags: 
+- architecture
 ---
 
 Welcome Back, 

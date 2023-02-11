@@ -3,6 +3,9 @@ title: "Should Software Architects Write Code?"
 date: 2021-05-18
 description: "Yes, software architects should code. In order to understand why, it's important to understand the career 
 paths and organization of the general aspects of software teams"
+tags:
+- architecture
+- sofware
 ---
 
 Does the Node Foundation deprecate versions aggressively? (Yes)

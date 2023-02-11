@@ -1,15 +1,9 @@
 ---
 title: "Defining The Architect Role, Part 1: An Ontological View" 
 date: 2022-08-09
-description: "Naming is hard.
-The title of 'Architect' is one with a storied history.
-From fish tales, to epic 
-journeys, to ghoulish nightmares,  technology architect responsibilities and roles are hard to pin down.
-In part one, 
-I aim to provide a means to differentiate architecture based on how work is performed and
-evaluated in terms of eventual output."
+slug: "/defining-the-architect-role-1"
 tags:
-- architecture
+- Architecture
 ---
 
 According to the Google search (definitions provided by [Oxford Languages](https://languages.oup.com/google-dictionary-en)

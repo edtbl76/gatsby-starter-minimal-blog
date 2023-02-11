@@ -1,9 +1,9 @@
 ---
 title: Let's talk about leadership...
 date: 2020-02-08
-description: "The reality of leadership is that it often doesn't come with the glory that is portrayed in books and movies. Good leaders find solace and a"
+slug: "/lets-talk-about-leadership"
 tags:
-- leadership
+- Leadership
 ---
 
 Being a leader, in any field or organization (professional or otherwise) is challenging.

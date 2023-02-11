@@ -1,11 +1,11 @@
 ---
 title: Distributed Systems, Platforms and Infrastructure
 date: 2021-01-16
-description: Perhaps one of the most misunderstood sets of terms includes "infrastructure", "platform" and "distributed systems". 
+slug: "/platforms-vs-infrastructure"
 tags:
-- infrastructure
-- platform
-- distributed systems
+- Infrastructure
+- Platform
+- Distributed Systems
 ---
 
 Modern software is a sea of acronyms, abbreviations in addition to the flotsam and jetsam of concentric circles created by overlapping terminologies. This washes over technology organizations with conflation and confusion that is a departure from the utopian ubiquitous language sought after for a frictionless design and development lifecycle.

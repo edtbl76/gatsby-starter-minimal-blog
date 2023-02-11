@@ -1,9 +1,9 @@
 ---
 title: "Accidental Complexity"
 date: 2021-07-05
-description: "Keep it simple, Stupid."
+slug: "/accidental-complexity"
 tags:
-- complexity
+- Complexity
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Definition of Done"
 date: 2021-01-26
+slug: "/definition-of-done"
 ---
 
 One of the most common challenges in any form of work is trying to define completeness. Technology value streams are no different.

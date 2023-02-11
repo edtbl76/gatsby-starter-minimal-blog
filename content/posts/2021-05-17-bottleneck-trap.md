@@ -1,7 +1,7 @@
 ---
-title: "Don't get choked by the Bottleneck Trap"
+title: "The Bottleneck Trap"
 date: 2021-05-17
-description: "The \"Bottleneck Trap\" is a common problem in software engineering organizations."
+slug: "/the-bottleneck-trap"
 ---
 
 ![Bottlenecks](content/posts/img/bottlenecks.png)

@@ -1,14 +1,9 @@
 ---
 title: "Defining The Architect Role, Part 2: Fitting In" 
 date: 2022-08-19
-description: "
-Episode IV: The Technologists Strike Back
-In part two,
-I'd like to compare and contrast architecture and engineering roles in order to demonstrate
-how these roles, and the skill sets, can compliment each other in a technology organization.
-"
+slug: "/defining-the-architect-role-2"
 tags: 
-- architecture
+- Architecture
 ---
 
 Welcome Back, 

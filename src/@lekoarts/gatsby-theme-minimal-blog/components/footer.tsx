@@ -23,6 +23,27 @@ const Footer = () => {
       <div>
         &copy; {new Date().getFullYear()} by {siteTitle}. All rights reserved.
       </div>
+
+      <div>
+        Site by
+        {` `}
+        <Link
+          aria-label="Link to Gatsby"
+          href="https://www.gatsbyjs.com/"
+        >
+          Gatsby
+        </Link>
+        ,
+        {` `}
+        Theme by
+        {` `}
+        <Link
+          aria-label="Link to the theme author's website"
+          href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Theme"
+        >
+          LekoArts
+        </Link>
+      </div>
     </footer>
   )
 }

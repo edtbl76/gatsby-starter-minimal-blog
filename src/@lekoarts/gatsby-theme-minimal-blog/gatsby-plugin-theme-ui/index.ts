@@ -1,6 +1,6 @@
 import { merge, ThemeUIStyleObject } from "theme-ui"
 import tailwind from "@theme-ui/preset-tailwind"
-import { lightThemeVars, darkThemeVars } from "../utils/prism-themes"
+import { lightThemeVars, darkThemeVars } from "../../gatsby-theme-minimal-blog/utils/prism-themes"
 
 declare module "theme-ui" {
   interface Theme {

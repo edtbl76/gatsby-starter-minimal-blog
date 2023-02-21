@@ -13,7 +13,8 @@ const Header = () => {
     <header sx={{ mb: [5, 6] }}>
       <Flex sx={{ alignItems: `center`, justifyContent: `space-between` }}>
         <HeaderTitle />
-        <ColorModeToggle />
+         {/*TODO Fix this god damned thing.*/}
+        {/*<ColorModeToggle />*/}
       </Flex>
       <div
         sx={{

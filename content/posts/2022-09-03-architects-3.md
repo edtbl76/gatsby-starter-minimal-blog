@@ -1,7 +1,7 @@
 ---
 title: "Defining The Architect Role, Part 3: Titles" 
 date: 2022-09-03
-slug: "/defining-the-architect-role-1"
+slug: "/defining-the-architect-role-3"
 tags: 
 - Architecture
 ---

@@ -15,10 +15,10 @@
   <classpath />
   <pom-root-files />
   <modules>
-    <module name="gatsby-starter-minimal-blog" kind="ide-project" />
+    <module name="emangini-site-b" kind="ide-project" />
   </modules>
   <modules-in-scope>
-    <module name="gatsby-starter-minimal-blog" />
+    <module name="emangini-site-b" />
   </modules-in-scope>
   <excludes>
     <exclude expression="*.*&amp;amp;*" active="true" />

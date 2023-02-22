@@ -1,6 +1,6 @@
 ---
 title: "Platforms and Infrastructure:Inventing the Universe"
-date: 2023-02-22
+date: 2023-02-17
 slug: "/platforms-and-infrastructure-inventing-the-universe"
 tags:
 - Platform

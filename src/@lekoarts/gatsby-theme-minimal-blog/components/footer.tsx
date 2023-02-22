@@ -21,11 +21,7 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}. All rights reserved.
-      </div>
-
-      <div>
-        Site by
+        &copy; {new Date().getFullYear()} by {siteTitle}. Site built with
         {` `}
         <Link
           aria-label="Link to Gatsby"
@@ -33,8 +29,8 @@ const Footer = () => {
         >
           Gatsby
         </Link>
-        ,
-        {` `}
+      </div>
+      <div>
         Theme by
         {` `}
         <Link

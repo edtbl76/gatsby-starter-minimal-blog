@@ -9,8 +9,8 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `@emangini`,
-    siteTitleAlt: `emangini`,
-    siteHeadline: `Edward Mangini | Portfolio and Blog`,
+    siteTitleAlt: `@emangini`,
+    siteHeadline: `@emangini`,
     siteUrl: `https://emangini.com`,
     siteDescription: `A blog about technology, transformation and leadership`,
     siteImage: `/banner.jpg`,

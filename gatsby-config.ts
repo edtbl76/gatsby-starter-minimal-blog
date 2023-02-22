@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `@emangini`,
     siteTitleAlt: `@emangini`,
     siteHeadline: `@emangini`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
+    siteUrl: `https://emangini.com`,
     siteDescription: `A blog about technology, transformation and leadership`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,

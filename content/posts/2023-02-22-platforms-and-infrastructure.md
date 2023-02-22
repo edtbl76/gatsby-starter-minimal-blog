@@ -1,5 +1,5 @@
 ---
-title: Platforms and Infrastructure
+title: "Platforms and Infrastructure"
 date: 2023-02-22
 slug: "/platforms-and-infrastructure"
 tags:

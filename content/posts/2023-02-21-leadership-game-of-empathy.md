@@ -1,7 +1,7 @@
 ---
 title: Leadership: Game of Empathy 
 date: 2023-02-21
-slug: "/leadership-game-of-empathy
+slug: "/leadership-game-of-empathy"
 tags:
 - Leadership
 ---

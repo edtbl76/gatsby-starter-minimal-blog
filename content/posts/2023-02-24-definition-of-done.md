@@ -52,7 +52,7 @@ While researching this article, I came across an interesting statement about val
 A naive view of this statement demonstrates a value stream as a straight line.
 This view is accurate if we consider the nuance of a single interaction.
 
-![Value Chain E2E](./img/done_value-stream.png)
+![Value Chain E2E](img/definition_of_done-value-chain.png)
 
 
 However, the end of one interaction stimulates the beginning of the next. I'd challenge the quote above and restate it as follows:
@@ -60,7 +60,8 @@ However, the end of one interaction stimulates the beginning of the next. I'd ch
 
 >"A value stream is a continuous flow of interactions through our customers."
 
-TODO: img of the flywheel?
+
+![definition_of_done-flywheel.png](img/definition_of_done-flywheel.png)
 
 To define what 'done' means, we must determine how the workflow progresses. Let's reduce it into its fundamental steps:
 
@@ -92,7 +93,8 @@ This step is similar to step 2. The flight will be shorter because we have alrea
 
 The shape of our flow has changed a bit. Rather than replacing the original straight line with a circular flow, we have a "ball of yarn." The stray line represents the first two steps, which are broad foundational activities. The last two steps represent an iterative process with the same categories of work, less the foundational exercises required to ignite the entire body of work.
 
-TODO: Ball of Yarn
+
+![definition_of_done-ball-of-yarn.png](img/definition_of_done-ball-of-yarn.png)
 
 **Endless Revision.**
 

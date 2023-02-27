@@ -2,7 +2,7 @@
 title: "Definition of Done"
 date: 2023-02-24
 slug: "/definition-of-done"
-- CI/CD
+- "CI/CD"
 - Test-Driven-Development
 - Continuous Integration
 - Continuous Delivery

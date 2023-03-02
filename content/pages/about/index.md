@@ -19,7 +19,6 @@ and we spend far too much time in the pursuit of 'best practices' when good ones
 I'm also a dad, runner, husband, dog enthusiast, and devotee of the fight sciences. These things are very important to
 me, but I don't talk about them here!
 
-
 ![Gravy](./sleepydog.jpg)
 
 This is Gravy. He's a dog.

@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `@emangini`,
     siteUrl: `https://emangini.com`,
     siteDescription: `A blog about technology, transformation and leadership`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/site-image.jpg`,
     siteLanguage: `en`,
     author: `Edward Mangini`,
   },

@@ -35,10 +35,10 @@ const config: GatsbyConfig = {
           },
         ],
         externalLinks: [
-          // {
-          //   name: `Twitter`,
-          //   url: `https://twitter.com/edmangini76`,
-          // },
+          {
+            name: `Twitter`,
+            url: `https://twitter.com/edward_mangini`,
+          },
           {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/edwardmangini`,

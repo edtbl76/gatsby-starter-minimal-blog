@@ -71,3 +71,6 @@ public
 .idea
 .vscode
 .DS_Store
+
+# Structure101
+.hsw

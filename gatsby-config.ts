@@ -36,6 +36,10 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
+            name: `Github`,
+            url: `https://github.com/edtbl76`
+          },
+          {
             name: `Twitter`,
             url: `https://twitter.com/edward_mangini`,
           },
@@ -61,7 +65,7 @@ const config: GatsbyConfig = {
       options: {
         name: `@emangini`,
         short_name: `@emangini`,
-        description: `A blog about technology, transformation and leadership`,
+        description: `A blog about technology, business and leadership`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website

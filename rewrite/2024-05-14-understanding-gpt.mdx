@@ -133,6 +133,8 @@ num_heads = 2
 d_model = 128
 ff_hidden_dim = 512
 dropout = 0.1
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 
 model = GPT(vocab_size, max_length, num_layers, num_heads, d_model, ff_hidden_dim, dropout).to(device)
 ```
